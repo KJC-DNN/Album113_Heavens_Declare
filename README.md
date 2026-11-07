@@ -15,14 +15,14 @@ Nine songs on the heavens that declare. Enoch walked with God. Elijah’s whirlw
 9. VAANAMUM BOOMIYUM.
     
 # Published
-GitHub: https://github.com/KJC-DNN/Album113_Heavens_Declare/releases/tag/113.0.0
-Archive: album-113-heavens-declare-main-cover
-Zenodo: https://doi.org/10.5281/zenodo.24030175
+1. GitHub: https://github.com/KJC-DNN/Album113_Heavens_Declare/releases/tag/113.0.0
+2. Archive: album-113-heavens-declare-main-cover
+3. Zenodo: https://doi.org/10.5281/zenodo.24030175
 
 # Instrumental
 ## Published
-GitHub: https://github.com/KJC-DNN/Album113_Instrumentals_Heavens_Declare/releases/tag/113.0.0
-Archive: album-113-instrumentals-heavens-declare-cover
-Zenodo: https://doi.org/10.5281/zenodo.24030245
+1. GitHub: https://github.com/KJC-DNN/Album113_Instrumentals_Heavens_Declare/releases/tag/113.0.0
+2. Archive: album-113-instrumentals-heavens-declare-cover
+3. Zenodo: https://doi.org/10.5281/zenodo.24030245
 
 # All Glory to Lord Jesus Christ.
